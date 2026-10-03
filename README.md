@@ -31,8 +31,8 @@ Modern arayüze (GUI) ve CLI desteğine sahip, web siteleri ve altyapılardaki h
 - (Opsiyonel) Selenium ve Web Tarayıcı Sürücüleri
 
 ```bash
-git clone https://github.com/OnurTugran/google_dork.git
-cd google_dork
+git clone https://github.com/OnurTugran/google-dork-auditor.git
+cd google-dork-auditor
 pip install -r requirements.txt
 ```
 
